@@ -18,11 +18,9 @@
     
     '1) Format the output sheet on All Stocks Analysis worksheet
 
-    Worksheets("All Stocks Analysis").Activate![2018 Stock Returns](https://user-images.githubusercontent.com/107145351/175851631-a38db207-cdc0-4c78-b605-8bfce071407c.png)
-
+    Worksheets("All Stocks Analysis").Activate![2018 Stock Returns]
     
-    
-    
+   
     'Create a header row
     
     
