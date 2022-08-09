@@ -18,7 +18,7 @@
     
     '1) Format the output sheet on All Stocks Analysis worksheet
 
-    Worksheets("All Stocks Analysis").Activate![2018 Stock Returns]
+    Worksheets("All Stocks Analysis").Activate
     
    
     'Create a header row
