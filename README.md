@@ -330,19 +330,19 @@
 
 ### Year 2017 Refactored Timer:
 
-![VBA_Challenge_2017](./VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://github.com/Brotherscodes/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
 
 ### Year 2017 Original Timer:
 
-![2017 original Runtime](./2017_Original_Runtime.png)
+![2017 original Runtime](https://github.com/Brotherscodes/stock-analysis/blob/main/resources/2017_Original_Runtime.png)
 
 ### Year 2018 Refactored Timer:
 
-![VBA_Challenge_2018](./VBA_Challenge_2018.png)
+![VBA_Challenge_2018](https://github.com/Brotherscodes/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
 ### Year 2018 Original Timer:
 
-![2018 Original Runtime](./2018_Original_Runtime.png)
+![2018 Original Runtime](https://github.com/Brotherscodes/stock-analysis/blob/main/resources/2018_Original_Runtime.png)
 
 
 ### As seen above, refactoring the code allowed it to run faster and be more efficient. 
@@ -353,11 +353,11 @@
 
 ## 2017:
 
-![2017 Stock Return](./2017_Stock_Returns.png)
+![2017 Stock Return](https://github.com/Brotherscodes/stock-analysis/blob/main/resources/2017_Stock_Returns.png)
 
 ## 2018:
 
-![2018 Stock Returns](2018_Stock_Returns.png)
+![2018 Stock Returns](https://github.com/Brotherscodes/stock-analysis/blob/main/resources/2018_Stock_Returns.png)
 
 
 - 2017 and 2018 returned two polar different returns for these green stocks. ENPH and Run were the only two stocks that had a positive return for both years. 
